@@ -62,7 +62,7 @@ This setup is provided as-is under the MIT License. Modify and use freely.
 
 ## Author
 
-Muhammad Faisal Nadeem or GitHub Handle  
+Muhammad Faisal Nadeem 
 Date: 2025-07-28
 
 
